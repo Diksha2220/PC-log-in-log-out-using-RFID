@@ -154,8 +154,6 @@ ser.close()
 
 This setup allows for a simple and effective way to control PC login/logout using RFID tags and Arduino.
 
-🗃️ [View Report File](https://github.com/Diksha2220/CypherEncryption/blob/main/CypherMainCode.txt)
-📊 [View Presentation File](https://github.com/Diksha2220/CypherEncryption/blob/main/CypherMainCode.txt)
 
 <div align="center">
     <img src="https://github.com/Diksha2220/Media/blob/main/RFID%20scan.gif" alt="PC Login/Logout using RFID " width="500"/>
